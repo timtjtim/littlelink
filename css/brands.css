@@ -366,12 +366,6 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* OnlyFans */
-.button-onlyfans {
-	--button-text:#ffffff;
-	--button-background:#00AEEF;
-}
-
 /* Patreon */
 .button-patreon {
 	--button-text:#ffffff;
